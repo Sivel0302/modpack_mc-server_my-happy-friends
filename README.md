@@ -6,4 +6,4 @@ Also go to [releases](https://github.com/Sivel0302/modpack_mc-server_my-happy-fr
 
 # Devlog
 
-Version 2.0 - removed Passable Foliage mode, added Farmer's Delight addons
+Version 2.0 - removed Passable Foliage mod, added Farmer's Delight addons
