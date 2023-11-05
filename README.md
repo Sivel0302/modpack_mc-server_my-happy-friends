@@ -10,4 +10,4 @@ Also go to [releases](https://github.com/Sivel0302/modpack_mc-server_my-happy-fr
 
 **Version 2.1** - the core has been changed to mohist (supports bukkit plugins), the openinv plugin has also been added (I need it so that if my friend finishes playing, I can take his things for other friends, even if he is online)
 
-**Version 2.1** - mod "Hit's tree chop" don't work on server. Because I upload plugin "CrisTreeCapitator", but save Hit's tree chop on modpack on curseforge for signeplayer, and save mod on server, because connecting require it
+**Version 2.2** - mod "Hit's tree chop" don't work on server. Because I upload plugin "CrisTreeCapitator", but save Hit's tree chop on modpack on curseforge for signeplayer, and save mod on server, because connecting require it
